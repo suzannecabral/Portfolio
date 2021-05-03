@@ -2,11 +2,11 @@ export const colors = {
 
     /* Material: Pink 700 */
     // deep raspberry pink
-    accentMain:'#c01e5b',
+    accentMain:'#ac154e',
     // favicon sampled: #c01e5b
     // material pink 700: #c2185b
-    accentBright:'#fa5788',
-    accentDark:'#8c0032',
+    accentBright:'#e3517a',
+    accentDark:'#770026',
 
     accentMainText:'#ffffff',
     accentBrightText:'#000000',
