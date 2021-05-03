@@ -9,7 +9,7 @@ const StyledSidebar = styled.div`
     top:0;
     left:0;
     bottom:0;
-    width:16rem;
+    width:18rem;
     padding:2rem 1rem;
     text-align:left;
     background-color:${colors.accentMain};
