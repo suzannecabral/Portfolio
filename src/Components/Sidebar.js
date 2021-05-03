@@ -2,6 +2,8 @@ import React from 'react';
 import styled from 'styled-components';
 import colors from '../Styles/designConstants';
 
+import Portrait from './Portrait';
+
 const StyledSidebar = styled.div`
     position:fixed;
     top:0;
@@ -17,7 +19,8 @@ const StyledSidebar = styled.div`
 const Sidebar = props => {
     return(
         <StyledSidebar>
-            <p>Sidebar goes here</p>
+            <Portrait />
+            <h1>Suzanne Cabral</h1>
         </StyledSidebar>
     );
 }
